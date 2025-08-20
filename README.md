@@ -1,6 +1,6 @@
 # Recipe Page
 
-![Screenshot](img/photo1.png)
+![Screenshot](img/screenshot.png)
 
 A clean and modern recipe web page showcasing a delicious dish, designed for the Dev Challenges platform. This project demonstrates responsive design, semantic HTML, and attractive CSS styling.
 
